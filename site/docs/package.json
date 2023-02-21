@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"kitty-ui": "workspace:1.0.0"
+	}
+}
